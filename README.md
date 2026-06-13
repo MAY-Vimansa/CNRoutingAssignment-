@@ -35,7 +35,7 @@ RIP routing implementation:
 * RIP configuration
 * Connectivity verification between all networks
 
-### task03_with_rip.pkt
+### task03_with_eigrp.pkt
 
 EIGRP routing implementation:
 
