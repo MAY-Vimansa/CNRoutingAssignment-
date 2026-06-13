@@ -1,39 +1,46 @@
 # CNRoutingAssignment
 
+This repository was created for the Computer Networks routing assignment. It contains the Packet Tracer files used to complete the required router configurations, static routing, and dynamic routing tasks.
+
 ## Student Information
-- Name: Your Name
-- Student ID: Your Student ID
-- Module: Computer Networks
 
-## Assignment Overview
-This repository contains Cisco Packet Tracer files for the Router Configuration and Routing Protocols assignment.
+**Name:** M.A.Y Vimansa
+**Student ID:** 39266
+**Module:** Computer Networks
 
-## Files Included
+## Repository Contents
 
-### 1. task01.pkt
-Contains:
-- Router hostname configuration
-- Console password configuration
-- Console login authentication
+### task01.pkt
 
-### 2. task02.pkt
-Contains:
-- IP addressing configuration
-- Static routing configuration
-- Connectivity verification between all networks
+Basic router configuration:
+▪ Hostname configuration
+▪ Console password setup
+▪ Console login authentication
 
-### 3. task03_with_rip.pkt
-Contains:
-- RIP routing configuration
-- Connectivity verification between all networks
-  
-### 3. task03_with_rip.pkt
-Contains:
-- EIGRP routing configuration
--  Connectivity verification between all networks
+### task02.pkt
 
-## Verification
-Connectivity was verified using:
-- Ping tests between Networks.
-- Routing table verification(provided in the report)
+Static routing implementation:
+▪ IP addressing
+▪ Static route configuration
+▪ Network connectivity testing
 
+### task03_with_rip.pkt
+
+RIP routing implementation:
+▪ RIP configuration
+▪ Connectivity verification between all networks
+
+### task03_with_rip.pkt
+
+EIGRP routing implementation:
+▪ EIGRP configuration
+▪ Connectivity verification between all networks
+
+## Testing and Verification
+
+The configurations were tested to ensure proper communication between the connected networks. Verification was carried out using:
+
+▪ Ping tests between networks
+▪ Routing table verification (included in the report)
+
+All screenshots, command outputs, and explanations related to these tasks are provided in the assignment report.
