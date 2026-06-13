@@ -13,34 +13,38 @@ This repository was created for the Computer Networks routing assignment. It con
 ### task01.pkt
 
 Basic router configuration:
-▪ Hostname configuration
-▪ Console password setup
-▪ Console login authentication
+
+* Hostname configuration
+* Console password setup
+* Console login authentication
 
 ### task02.pkt
 
 Static routing implementation:
-▪ IP addressing
-▪ Static route configuration
-▪ Network connectivity testing
+
+* IP addressing
+* Static route configuration
+* Network connectivity testing
 
 ### task03_with_rip.pkt
 
 RIP routing implementation:
-▪ RIP configuration
-▪ Connectivity verification between all networks
+
+* RIP configuration
+* Connectivity verification between all networks
 
 ### task03_with_rip.pkt
 
 EIGRP routing implementation:
-▪ EIGRP configuration
-▪ Connectivity verification between all networks
+
+* EIGRP configuration
+* Connectivity verification between all networks
 
 ## Testing and Verification
 
 The configurations were tested to ensure proper communication between the connected networks. Verification was carried out using:
 
-▪ Ping tests between networks
-▪ Routing table verification (included in the report)
+* Ping tests between networks
+* Routing table verification (included in the report)
 
 All screenshots, command outputs, and explanations related to these tasks are provided in the assignment report.
