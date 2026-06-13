@@ -1,11 +1,13 @@
 # CNRoutingAssignment
 
-This repository was created for the Computer Networks routing assignment. It contains the Packet Tracer files used to complete the required router configurations, static routing, and dynamic routing tasks.
+This contains the Packet Tracer files used to complete the required router configurations, static routing, and dynamic routing tasks.
 
 ## Student Information
 
 **Name:** M.A.Y Vimansa
+
 **Student ID:** 39266
+
 **Module:** Computer Networks
 
 ## Repository Contents
@@ -47,4 +49,3 @@ The configurations were tested to ensure proper communication between the connec
 * Ping tests between networks
 * Routing table verification (included in the report)
 
-All screenshots, command outputs, and explanations related to these tasks are provided in the assignment report.
